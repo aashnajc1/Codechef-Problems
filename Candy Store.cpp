@@ -18,4 +18,3 @@ int main() {
 	    cout << cost << endl;
 	}
 	return 0;
-}
